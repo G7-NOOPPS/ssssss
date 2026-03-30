@@ -8,4 +8,3 @@ let cep = "80010-000";
 let enderecoCompleto = rua + "," + numero + "-" + cidade;
 
 console.log(enderecoCompleto);
-v

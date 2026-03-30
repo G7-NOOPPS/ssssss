@@ -1,8 +1,8 @@
 let valorPorHora = 50;
-let horas Trabalhadas 8;
+let horasTrabalhadas 8;
 
 console.log("--- Resumo do Expediente ---");
-console.log(Horas iniciais: ${horas Trabalhadas}h);
+console.log(horasIniciais: ${horasTrabalhadas}h);
 
 horas Trabalhadas++;
 console.log("Após hora extra Moras Trabalhadas++): $(horas Trabalhadash");
